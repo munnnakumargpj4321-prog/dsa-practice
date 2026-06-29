@@ -12,6 +12,7 @@ DSA_Practics/
 │   └── 001_two_sum.c++
 └── searching/
     └── bineary_search/
+        ├── first_and_last_number_of_givin_target.cpp
         └── search_one_target.cpp
 ```
 
@@ -21,6 +22,7 @@ DSA_Practics/
 | ---: | --- | --- | --- | --- | --- |
 | 1 | [Two Sum](DSA_Practics/array/001_two_sum.c++) | Array | Two pointers | `O(n)` | `O(1)` |
 | 2 | [Search for One Target](DSA_Practics/searching/bineary_search/search_one_target.cpp) | Binary Search | Iterative binary search | `O(log n)` | `O(1)` |
+| 3 | [Find First and Last Position of Target](DSA_Practics/searching/bineary_search/first_and_last_number_of_givin_target.cpp) | Binary Search | Two binary searches | `O(log n)` | `O(1)` |
 
 > **Note:** The Two Sum solution uses two pointers, so its input array must be
 > sorted in ascending order.
