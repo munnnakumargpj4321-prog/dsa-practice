@@ -64,4 +64,12 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0011-container-with-most-water/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0069-sqrtx/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
