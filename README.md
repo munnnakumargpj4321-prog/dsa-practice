@@ -49,3 +49,19 @@ g++ "DSA_Practics/array/001_two_sum.c++" -std=c++17 -o two_sum
 ## Goal
 
 Keep learning new DSA patterns and add well-explained solutions regularly.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0011-container-with-most-water/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0011-container-with-most-water/) | Medium |
+<!---LeetCode Topics End-->
