@@ -60,6 +60,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0125-valid-palindrome](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0344-reverse-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -77,5 +78,6 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
