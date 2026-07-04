@@ -67,6 +67,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0069-sqrtx/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
