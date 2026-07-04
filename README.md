@@ -57,6 +57,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0011-container-with-most-water/) | Medium |
 | [0283-move-zeroes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0283-move-zeroes/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0125-valid-palindrome](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0344-reverse-string/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,4 +84,8 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0344-reverse-string/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0905-sort-array-by-parity](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 <!---LeetCode Topics End-->
