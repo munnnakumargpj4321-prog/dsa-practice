@@ -62,6 +62,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0941-valid-mountain-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0941-valid-mountain-array/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
