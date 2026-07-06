@@ -61,6 +61,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0066-plus-one](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0066-plus-one/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0283-move-zeroes/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0941-valid-mountain-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0941-valid-mountain-array/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -91,6 +92,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0035-search-insert-position](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
