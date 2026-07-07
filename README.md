@@ -59,6 +59,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0033-search-in-rotated-sorted-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0189-rotate-array/) | Medium |
@@ -72,6 +73,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0075-sort-colors](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -112,6 +114,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 <!---LeetCode Topics End-->
