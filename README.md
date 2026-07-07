@@ -61,6 +61,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0066-plus-one](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -74,6 +75,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0088-merge-sorted-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0344-reverse-string/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -88,6 +90,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0009-palindrome-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0069-sqrtx/) | Easy |
+| [0189-rotate-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0189-rotate-array/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Binary Search
