@@ -85,6 +85,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0066-plus-one](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0069-sqrtx/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
