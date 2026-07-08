@@ -66,6 +66,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0283-move-zeroes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0724-find-pivot-index](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0941-valid-mountain-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0941-valid-mountain-array/) | Easy |
@@ -129,5 +130,6 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0724-find-pivot-index](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0724-find-pivot-index/) | Easy |
 | [2270-number-of-ways-to-split-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 <!---LeetCode Topics End-->
