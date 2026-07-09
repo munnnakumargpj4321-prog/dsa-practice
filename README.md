@@ -63,6 +63,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0088-merge-sorted-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0189-rotate-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -121,6 +122,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0088-merge-sorted-array/) | Easy |
+| [0229-majority-element-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -132,4 +134,12 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0410-split-array-largest-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0724-find-pivot-index](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0724-find-pivot-index/) | Easy |
 | [2270-number-of-ways-to-split-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2270-number-of-ways-to-split-array/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0229-majority-element-ii/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
