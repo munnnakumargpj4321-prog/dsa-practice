@@ -67,6 +67,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0189-rotate-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0283-move-zeroes/) | Easy |
+| [0334-increasing-triplet-subsequence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0442-find-all-duplicates-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -94,6 +95,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Math
 | Problem Name | Difficulty |
