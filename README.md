@@ -68,6 +68,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0229-majority-element-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0283-move-zeroes/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0442-find-all-duplicates-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0724-find-pivot-index](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -129,6 +130,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0075-sort-colors](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0229-majority-element-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0229-majority-element-ii/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Dynamic Programming
@@ -145,6 +147,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0229-majority-element-ii/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
