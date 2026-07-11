@@ -75,6 +75,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0852-peak-index-in-a-mountain-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0941-valid-mountain-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0941-valid-mountain-array/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2270-number-of-ways-to-split-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2270-number-of-ways-to-split-array/) | Medium |
@@ -118,6 +119,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0410-split-array-largest-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -154,4 +156,8 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0229-majority-element-ii/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 <!---LeetCode Topics End-->
