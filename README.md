@@ -60,6 +60,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0027-remove-element](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0035-search-insert-position/) | Easy |
+| [0055-jump-game](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0088-merge-sorted-array/) | Easy |
@@ -102,6 +103,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0055-jump-game/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0410-split-array-largest-sum/) | Hard |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
@@ -151,6 +153,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
