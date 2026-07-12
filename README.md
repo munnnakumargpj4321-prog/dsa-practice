@@ -81,6 +81,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2270-number-of-ways-to-split-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -133,6 +134,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0125-valid-palindrome](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0344-reverse-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
