@@ -78,6 +78,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0905-sort-array-by-parity](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0941-valid-mountain-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0941-valid-mountain-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2270-number-of-ways-to-split-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2270-number-of-ways-to-split-array/) | Medium |
@@ -140,6 +141,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0229-majority-element-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -156,6 +158,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,4 +167,8 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
