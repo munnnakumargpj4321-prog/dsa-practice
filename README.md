@@ -88,6 +88,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [2270-number-of-ways-to-split-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3024-type-of-triangle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3024-type-of-triangle/) | Easy |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
