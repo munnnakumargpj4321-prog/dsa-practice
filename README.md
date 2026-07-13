@@ -89,6 +89,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3024-type-of-triangle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3024-type-of-triangle/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [1822-sign-of-the-product-of-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [3024-type-of-triangle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3024-type-of-triangle/) | Easy |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
