@@ -86,6 +86,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [1822-sign-of-the-product-of-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2270-number-of-ways-to-split-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2270-number-of-ways-to-split-array/) | Medium |
+| [3024-type-of-triangle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3024-type-of-triangle/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [0189-rotate-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0189-rotate-array/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [3024-type-of-triangle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3024-type-of-triangle/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -154,6 +156,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [3024-type-of-triangle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3024-type-of-triangle/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
