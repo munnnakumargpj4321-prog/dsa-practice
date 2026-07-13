@@ -86,6 +86,7 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | [1822-sign-of-the-product-of-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2270-number-of-ways-to-split-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2270-number-of-ways-to-split-array/) | Medium |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [3024-type-of-triangle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3024-type-of-triangle/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -190,4 +191,8 @@ Keep learning new DSA patterns and add well-explained solutions regularly.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 <!---LeetCode Topics End-->
