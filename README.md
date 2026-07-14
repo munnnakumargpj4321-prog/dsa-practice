@@ -668,6 +668,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1051-height-checker/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -676,5 +677,10 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1051-height-checker/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 <!---LeetCode Topics End-->
 ics End-->
