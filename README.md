@@ -659,16 +659,10 @@ LeetCode Topics End
 -->
 
 <!---LeetCode Topics Start-->
-
 # LeetCode Topics
-
-> This section is auto-generated from solved LeetCode problems.
-> It groups problems topic-wise so I can revise patterns easily.
-
-<!-- 
-Paste your existing auto-generated topic tables here.
-Do not delete the start/end comments if your LeetCode sync tool depends on them.
--->
-
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3110-score-of-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3110-score-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
 ics End-->
