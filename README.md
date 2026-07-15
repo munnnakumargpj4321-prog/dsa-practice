@@ -663,6 +663,7 @@ LeetCode Topics End
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [3110-score-of-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3110-score-of-a-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -695,5 +696,13 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 <!---LeetCode Topics End-->
 ics End-->
