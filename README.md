@@ -663,6 +663,7 @@ LeetCode Topics End
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1108-defanging-an-ip-address](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [3110-score-of-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3110-score-of-a-string/) | Easy |
 ## Array
