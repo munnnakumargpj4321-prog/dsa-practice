@@ -665,6 +665,7 @@ LeetCode Topics End
 | ------- | ------- |
 | [1108-defanging-an-ip-address](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1678-goal-parser-interpretation/) | Easy |
+| [1816-truncate-sentence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1816-truncate-sentence/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [3110-score-of-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3110-score-of-a-string/) | Easy |
 ## Array
@@ -673,6 +674,7 @@ LeetCode Topics End
 | [0209-minimum-size-subarray-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1051-height-checker](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1051-height-checker/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
+| [1816-truncate-sentence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1816-truncate-sentence/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
