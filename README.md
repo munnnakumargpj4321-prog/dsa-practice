@@ -680,6 +680,7 @@ LeetCode Topics End
 | [0001-two-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0001-two-sum/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0134-gas-station](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0134-gas-station/) | Medium |
+| [0137-single-number-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0137-single-number-ii/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1051-height-checker](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1051-height-checker/) | Easy |
 | [1528-shuffle-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1528-shuffle-string/) | Easy |
@@ -747,5 +748,9 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0137-single-number-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0137-single-number-ii/) | Medium |
 <!---LeetCode Topics End-->
 ics End-->
