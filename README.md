@@ -670,6 +670,7 @@ LeetCode Topics End
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1816-truncate-sentence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1816-truncate-sentence/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [3110-score-of-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3110-score-of-a-string/) | Easy |
 ## Array
@@ -728,6 +729,7 @@ LeetCode Topics End
 | ------- | ------- |
 | [0001-two-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0001-two-sum/) | Easy |
 | [0567-permutation-in-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
