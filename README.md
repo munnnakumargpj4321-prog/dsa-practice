@@ -663,6 +663,7 @@ LeetCode Topics End
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0567-permutation-in-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1528-shuffle-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1528-shuffle-string/) | Easy |
@@ -704,6 +705,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0567-permutation-in-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -725,5 +727,10 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0001-two-sum/) | Easy |
+| [0567-permutation-in-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
 ics End-->
