@@ -678,6 +678,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0001-two-sum/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0134-gas-station](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0134-gas-station/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1051-height-checker](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1051-height-checker/) | Easy |
@@ -701,6 +702,7 @@ LeetCode Topics End
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
