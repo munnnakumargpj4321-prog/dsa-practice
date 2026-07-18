@@ -698,6 +698,7 @@ LeetCode Topics End
 | [1732-find-the-highest-altitude](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1816-truncate-sentence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1816-truncate-sentence/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 ## Sorting
@@ -706,6 +707,7 @@ LeetCode Topics End
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1051-height-checker](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1051-height-checker/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -721,6 +723,7 @@ LeetCode Topics End
 | [0209-minimum-size-subarray-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -766,6 +769,7 @@ LeetCode Topics End
 | [0567-permutation-in-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
