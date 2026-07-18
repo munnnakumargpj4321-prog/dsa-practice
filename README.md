@@ -688,6 +688,7 @@ LeetCode Topics End
 | [0137-single-number-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0137-single-number-ii/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0605-can-place-flowers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0605-can-place-flowers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0724-find-pivot-index](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0724-find-pivot-index/) | Easy |
 | [1051-height-checker](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1051-height-checker/) | Easy |
@@ -726,6 +727,7 @@ LeetCode Topics End
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
