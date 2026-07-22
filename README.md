@@ -685,6 +685,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0134-gas-station](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0134-gas-station/) | Medium |
@@ -783,6 +784,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
