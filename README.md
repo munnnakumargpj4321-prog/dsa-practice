@@ -689,6 +689,7 @@ LeetCode Topics End
 | [0041-first-missing-positive](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -776,6 +777,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -859,6 +861,7 @@ LeetCode Topics End
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
