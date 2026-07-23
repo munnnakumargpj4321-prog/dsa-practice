@@ -716,6 +716,7 @@ LeetCode Topics End
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1816-truncate-sentence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1816-truncate-sentence/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -794,6 +795,7 @@ LeetCode Topics End
 | [0826-most-profit-assigning-work](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 ## Hash Table
