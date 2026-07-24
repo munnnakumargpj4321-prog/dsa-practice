@@ -701,6 +701,7 @@ LeetCode Topics End
 | [0240-search-a-2d-matrix-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0605-can-place-flowers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -885,5 +886,10 @@ LeetCode Topics End
 | [0073-set-matrix-zeroes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0419-battleships-in-a-board/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0419-battleships-in-a-board](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0419-battleships-in-a-board/) | Medium |
 <!---LeetCode Topics End-->
 ics End-->
