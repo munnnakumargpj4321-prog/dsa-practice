@@ -722,6 +722,7 @@ LeetCode Topics End
 | [1816-truncate-sentence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1816-truncate-sentence/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -742,6 +743,7 @@ LeetCode Topics End
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
@@ -839,6 +841,7 @@ LeetCode Topics End
 | [0048-rotate-image](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0048-rotate-image/) | Medium |
 | [0204-count-primes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0204-count-primes/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -892,6 +895,7 @@ LeetCode Topics End
 | [0240-search-a-2d-matrix-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0463-island-perimeter/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
