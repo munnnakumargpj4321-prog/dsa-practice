@@ -687,6 +687,7 @@ LeetCode Topics End
 | ------- | ------- |
 | [0001-two-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0018-4sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0041-first-missing-positive/) | Hard |
@@ -741,6 +742,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -840,6 +842,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0018-4sum/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
