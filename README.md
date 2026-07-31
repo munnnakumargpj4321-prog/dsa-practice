@@ -869,6 +869,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0048-rotate-image/) | Medium |
+| [0172-factorial-trailing-zeroes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0204-count-primes/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
