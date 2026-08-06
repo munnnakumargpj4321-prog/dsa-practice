@@ -733,6 +733,7 @@ LeetCode Topics End
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1528-shuffle-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1528-shuffle-string/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -800,6 +801,7 @@ LeetCode Topics End
 | [0374-guess-number-higher-or-lower](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
