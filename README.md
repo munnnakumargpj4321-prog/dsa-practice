@@ -983,11 +983,13 @@ LeetCode Topics End
 | ------- | ------- |
 | [0046-permutations](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0090-subsets-ii/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
 ics End-->
