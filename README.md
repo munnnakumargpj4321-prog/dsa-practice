@@ -663,6 +663,7 @@ LeetCode Topics End
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -859,6 +860,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0001-two-sum/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0041-first-missing-positive/) | Hard |
@@ -999,6 +1001,7 @@ LeetCode Topics End
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0051-n-queens/) | Hard |
