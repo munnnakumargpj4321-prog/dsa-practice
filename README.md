@@ -756,6 +756,7 @@ LeetCode Topics End
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2951-find-the-peaks](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2951-find-the-peaks/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -784,6 +785,7 @@ LeetCode Topics End
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -879,6 +881,7 @@ LeetCode Topics End
 | [1679-max-number-of-k-sum-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
