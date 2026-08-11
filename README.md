@@ -753,6 +753,7 @@ LeetCode Topics End
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -883,6 +884,7 @@ LeetCode Topics End
 | [1679-max-number-of-k-sum-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
