@@ -713,6 +713,7 @@ LeetCode Topics End
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0090-subsets-ii/) | Medium |
+| [0118-pascals-triangle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0134-gas-station](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0134-gas-station/) | Medium |
 | [0137-single-number-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0137-single-number-ii/) | Medium |
@@ -1000,6 +1001,7 @@ LeetCode Topics End
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0877-stone-game](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0877-stone-game/) | Medium |
