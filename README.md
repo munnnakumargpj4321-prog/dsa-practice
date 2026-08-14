@@ -663,6 +663,7 @@ LeetCode Topics End
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
@@ -828,6 +829,7 @@ LeetCode Topics End
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -874,6 +876,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0037-sudoku-solver/) | Hard |
