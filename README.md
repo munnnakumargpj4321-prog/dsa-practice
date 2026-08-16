@@ -705,6 +705,7 @@ LeetCode Topics End
 | [0040-combination-sum-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0051-n-queens/) | Hard |
@@ -777,6 +778,7 @@ LeetCode Topics End
 | [0015-3sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -1034,6 +1036,7 @@ LeetCode Topics End
 | [0039-combination-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0078-subsets/) | Medium |
