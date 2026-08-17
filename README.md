@@ -765,6 +765,7 @@ LeetCode Topics End
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2951-find-the-peaks](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2951-find-the-peaks/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -862,6 +863,7 @@ LeetCode Topics End
 | [0054-spiral-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -1000,15 +1002,18 @@ LeetCode Topics End
 | [0419-battleships-in-a-board](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0463-island-perimeter/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0419-battleships-in-a-board](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0463-island-perimeter/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0463-island-perimeter/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
