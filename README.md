@@ -719,6 +719,7 @@ LeetCode Topics End
 | [0090-subsets-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0134-gas-station/) | Medium |
 | [0137-single-number-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0137-single-number-ii/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -890,6 +891,7 @@ LeetCode Topics End
 | [0041-first-missing-positive](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -1078,5 +1080,9 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
 ics End-->
