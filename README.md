@@ -669,6 +669,7 @@ LeetCode Topics End
 | [0049-group-anagrams](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0065-valid-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0065-valid-number/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0282-expression-add-operators](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0282-expression-add-operators/) | Hard |
 | [0443-string-compression](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0520-detect-capital](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0520-detect-capital/) | Easy |
@@ -934,6 +935,7 @@ LeetCode Topics End
 | [0048-rotate-image](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0048-rotate-image/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0204-count-primes/) | Medium |
+| [0282-expression-add-operators](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0282-expression-add-operators/) | Hard |
 | [0367-valid-perfect-square](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0877-stone-game/) | Medium |
@@ -1050,6 +1052,7 @@ LeetCode Topics End
 | [0052-n-queens-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0090-subsets-ii/) | Medium |
+| [0282-expression-add-operators](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0282-expression-add-operators/) | Hard |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
