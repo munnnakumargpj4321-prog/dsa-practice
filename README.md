@@ -771,6 +771,7 @@ LeetCode Topics End
 | [2951-find-the-peaks](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2951-find-the-peaks/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -867,6 +868,7 @@ LeetCode Topics End
 | [0059-spiral-matrix-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
