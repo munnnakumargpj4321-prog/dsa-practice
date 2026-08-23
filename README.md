@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:00C2FF&height=230&section=header&text=DSA%20PRACTICE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=My%20LeetCode%20and%20Problem%20Solving%20Journey%20in%20C%2B%2B&descAlignY=58&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=700%2B+LeetCode+Problems+Mission;C%2B%2B+%7C+DSA+%7C+Problem+Solving;Arrays+%E2%9E%9C+Binary+Search+%E2%9E%9C+DP+%E2%9E%9C+Graphs;One+Problem+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=1000%2B+LeetCode+Problems+Mission;C%2B%2B+%7C+DSA+%7C+Problem+Solving;Arrays+%E2%9E%9C+Binary+Search+%E2%9E%9C+DP+%E2%9E%9C+Graphs;One+Problem+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br />
@@ -12,7 +12,7 @@
 
 <p>
   This repository is my personal DSA training ground where I solve problems, write clean C++ solutions,
-  record approaches, analyze complexity, and track my journey toward solving <strong>700+ LeetCode problems</strong>.
+  record approaches, analyze complexity, and track my journey toward solving <strong>1000+ LeetCode problems</strong>.
 </p>
 
 <br />
