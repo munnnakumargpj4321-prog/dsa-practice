@@ -661,8 +661,8 @@ LeetCode Topics End
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -694,8 +694,8 @@ LeetCode Topics End
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3110-score-of-a-string/) | Easy |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0016-3sum-closest/) | Medium |
@@ -782,8 +782,8 @@ LeetCode Topics End
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0018-4sum/) | Medium |
@@ -812,8 +812,8 @@ LeetCode Topics End
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -823,8 +823,8 @@ LeetCode Topics End
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -842,8 +842,8 @@ LeetCode Topics End
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
@@ -854,8 +854,8 @@ LeetCode Topics End
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0724-find-pivot-index/) | Easy |
@@ -863,13 +863,13 @@ LeetCode Topics End
 | [1732-find-the-highest-altitude](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -877,8 +877,8 @@ LeetCode Topics End
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0134-gas-station](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0134-gas-station/) | Medium |
 | [0330-patching-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0330-patching-array/) | Hard |
 | [0397-integer-replacement](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0397-integer-replacement/) | Medium |
@@ -891,8 +891,8 @@ LeetCode Topics End
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
@@ -920,8 +920,8 @@ LeetCode Topics End
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0018-4sum/) | Medium |
@@ -940,8 +940,8 @@ LeetCode Topics End
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0048-rotate-image/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0204-count-primes/) | Medium |
@@ -963,14 +963,14 @@ LeetCode Topics End
 | [3658-gcd-of-odd-and-even-sums](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0204-count-primes/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0090-subsets-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0137-single-number-ii/) | Medium |
@@ -980,38 +980,38 @@ LeetCode Topics End
 | [3513-number-of-unique-xor-triplets-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0204-count-primes/) | Medium |
 | [2951-find-the-peaks](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2951-find-the-peaks/) | Easy |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0164-maximum-gap](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0048-rotate-image/) | Medium |
@@ -1026,21 +1026,21 @@ LeetCode Topics End
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0200-number-of-islands](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0463-island-perimeter/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0200-number-of-islands](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0463-island-perimeter/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0118-pascals-triangle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
@@ -1049,20 +1049,20 @@ LeetCode Topics End
 | [0397-integer-replacement](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0397-integer-replacement/) | Medium |
 | [0877-stone-game](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0877-stone-game/) | Medium |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0877-stone-game](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0877-stone-game/) | Medium |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0039-combination-sum/) | Medium |
@@ -1076,48 +1076,48 @@ LeetCode Topics End
 | [0282-expression-add-operators](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0282-expression-add-operators/) | Hard |
 | [0357-count-numbers-with-unique-digits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0357-count-numbers-with-unique-digits) |
 ## Algorithm X
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0052-n-queens-ii/) | Hard |
 ## Dancing Links
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0037-sudoku-solver/) | Hard |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Z Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Knuth–Morris–Pratt Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Boyer–Moore String-Search Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Pigeonhole Principle
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0164-maximum-gap](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0164-maximum-gap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0200-number-of-islands/) | Medium |
 ## Radix Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0164-maximum-gap](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0164-maximum-gap) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0397-integer-replacement](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0397-integer-replacement/) | Medium |
 <!---LeetCode Topics End-->
 ics End-->
