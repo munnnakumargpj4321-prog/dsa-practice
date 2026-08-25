@@ -664,6 +664,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
