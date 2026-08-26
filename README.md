@@ -1060,6 +1060,7 @@ LeetCode Topics End
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -1128,5 +1129,9 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0014-longest-common-prefix/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
 ics End-->
