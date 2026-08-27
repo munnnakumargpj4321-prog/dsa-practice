@@ -942,6 +942,7 @@ LeetCode Topics End
 | [0567-permutation-in-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -1136,5 +1137,6 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
 ics End-->
