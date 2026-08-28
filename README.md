@@ -709,6 +709,7 @@ LeetCode Topics End
 | [0039-combination-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0041-first-missing-positive/) | Hard |
+| [0045-jump-game-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0048-rotate-image/) | Medium |
@@ -886,6 +887,7 @@ LeetCode Topics End
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0134-gas-station](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0134-gas-station/) | Medium |
 | [0330-patching-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0330-patching-array/) | Hard |
 | [0397-integer-replacement](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0397-integer-replacement/) | Medium |
@@ -1053,6 +1055,7 @@ LeetCode Topics End
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
