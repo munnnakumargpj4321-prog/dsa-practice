@@ -774,6 +774,7 @@ LeetCode Topics End
 | [2215-find-the-difference-of-two-arrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2321-maximum-score-of-spliced-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2321-maximum-score-of-spliced-array/) | Hard |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -1065,6 +1066,7 @@ LeetCode Topics End
 | [0392-is-subsequence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0392-is-subsequence/) | Easy |
 | [0397-integer-replacement](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0397-integer-replacement/) | Medium |
 | [0877-stone-game](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0877-stone-game/) | Medium |
+| [2321-maximum-score-of-spliced-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2321-maximum-score-of-spliced-array/) | Hard |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
