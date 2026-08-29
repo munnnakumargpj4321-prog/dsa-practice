@@ -1076,6 +1076,7 @@ LeetCode Topics End
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
@@ -1150,6 +1151,7 @@ LeetCode Topics End
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
