@@ -915,6 +915,7 @@ LeetCode Topics End
 | [0049-group-anagrams](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -1156,6 +1157,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0206-reverse-linked-list/) | Easy |
