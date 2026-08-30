@@ -771,6 +771,7 @@ LeetCode Topics End
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -898,6 +899,7 @@ LeetCode Topics End
 | [0945-minimum-increment-to-make-array-unique](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
