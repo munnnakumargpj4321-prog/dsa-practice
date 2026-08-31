@@ -798,6 +798,7 @@ LeetCode Topics End
 | [0018-4sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
+| [0148-sort-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -946,6 +947,7 @@ LeetCode Topics End
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0148-sort-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -1019,6 +1021,7 @@ LeetCode Topics End
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -1159,6 +1162,7 @@ LeetCode Topics End
 | [0021-merge-two-sorted-lists](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0148-sort-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -1171,5 +1175,9 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
 ics End-->
