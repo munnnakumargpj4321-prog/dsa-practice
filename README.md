@@ -745,6 +745,7 @@ LeetCode Topics End
 | [0463-island-perimeter](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0463-island-perimeter/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0605-can-place-flowers/) | Easy |
+| [0611-valid-triangle-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -804,6 +805,7 @@ LeetCode Topics End
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0611-valid-triangle-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0826-most-profit-assigning-work/) | Medium |
@@ -844,6 +846,7 @@ LeetCode Topics End
 | [0287-find-the-duplicate-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0367-valid-perfect-square](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0611-valid-triangle-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0611-valid-triangle-number/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0888-fair-candy-swap](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0888-fair-candy-swap/) | Easy |
@@ -896,6 +899,7 @@ LeetCode Topics End
 | [0330-patching-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0330-patching-array/) | Hard |
 | [0397-integer-replacement](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0397-integer-replacement/) | Medium |
 | [0605-can-place-flowers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0605-can-place-flowers/) | Easy |
+| [0611-valid-triangle-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0611-valid-triangle-number/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -955,6 +959,7 @@ LeetCode Topics End
 | [0392-is-subsequence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
+| [0611-valid-triangle-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0611-valid-triangle-number/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
