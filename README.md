@@ -743,6 +743,7 @@ LeetCode Topics End
 | [0419-battleships-in-a-board](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0463-island-perimeter/) | Easy |
+| [0496-next-greater-element-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0605-can-place-flowers/) | Easy |
 | [0611-valid-triangle-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0611-valid-triangle-number/) | Medium |
@@ -887,6 +888,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Simulation
@@ -933,6 +935,7 @@ LeetCode Topics End
 | [0160-intersection-of-two-linked-lists](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0496-next-greater-element-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0888-fair-candy-swap](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0888-fair-candy-swap/) | Easy |
@@ -1206,5 +1209,9 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
 ics End-->
