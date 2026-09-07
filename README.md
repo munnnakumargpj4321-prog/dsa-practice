@@ -858,6 +858,7 @@ LeetCode Topics End
 | [0367-valid-perfect-square](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0611-valid-triangle-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0611-valid-triangle-number/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0888-fair-candy-swap](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0888-fair-candy-swap/) | Easy |
@@ -977,6 +978,7 @@ LeetCode Topics End
 | [0443-string-compression](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
 | [0611-valid-triangle-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0611-valid-triangle-number/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -996,6 +998,7 @@ LeetCode Topics End
 | [0367-valid-perfect-square](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0788-rotated-digits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0877-stone-game/) | Medium |
 | [0899-orderly-queue](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0899-orderly-queue/) | Hard |
