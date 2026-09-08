@@ -1014,6 +1014,7 @@ LeetCode Topics End
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3870-count-commas-in-range](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Number Theory
