@@ -761,6 +761,7 @@ LeetCode Topics End
 | [0945-minimum-increment-to-make-array-unique](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1051-height-checker](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1051-height-checker/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -822,6 +823,7 @@ LeetCode Topics End
 | [0912-sort-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0912-sort-an-array/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1051-height-checker](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1051-height-checker/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
@@ -842,6 +844,7 @@ LeetCode Topics End
 | [0945-minimum-increment-to-make-array-unique](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1051-height-checker](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1051-height-checker/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -1033,6 +1036,7 @@ LeetCode Topics End
 | [0137-single-number-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0137-single-number-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0397-integer-replacement](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0397-integer-replacement/) | Medium |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
