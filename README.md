@@ -782,6 +782,7 @@ LeetCode Topics End
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2321-maximum-score-of-spliced-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2321-maximum-score-of-spliced-array/) | Hard |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -831,6 +832,7 @@ LeetCode Topics End
 | [1679-max-number-of-k-sum-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -1010,6 +1012,7 @@ LeetCode Topics End
 | [1903-largest-odd-number-in-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2485-find-the-pivot-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
@@ -1027,6 +1030,7 @@ LeetCode Topics End
 | [0204-count-primes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0204-count-primes/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -1049,6 +1053,7 @@ LeetCode Topics End
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2679-sum-in-a-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2679-sum-in-a-matrix/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -1242,5 +1247,13 @@ LeetCode Topics End
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0503-next-greater-element-ii/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 <!---LeetCode Topics End-->
 ics End-->
