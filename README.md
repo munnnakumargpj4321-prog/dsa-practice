@@ -1011,6 +1011,7 @@ LeetCode Topics End
 | [0628-maximum-product-of-three-numbers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0788-rotated-digits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0788-rotated-digits/) | Medium |
+| [0836-rectangle-overlap](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0877-stone-game/) | Medium |
 | [0899-orderly-queue](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0899-orderly-queue/) | Hard |
 | [1015-smallest-integer-divisible-by-k](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
@@ -1270,5 +1271,9 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
 ics End-->
