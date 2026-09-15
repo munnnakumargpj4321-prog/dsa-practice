@@ -903,6 +903,7 @@ LeetCode Topics End
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -1278,5 +1279,9 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0836-rectangle-overlap/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
 ics End-->
