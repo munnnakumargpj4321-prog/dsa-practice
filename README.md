@@ -711,6 +711,7 @@ LeetCode Topics End
 | [0039-combination-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0040-combination-sum-ii/) | Medium |
 | [0041-first-missing-positive](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0041-first-missing-positive/) | Hard |
+| [0042-trapping-rain-water](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0047-permutations-ii/) | Medium |
@@ -904,6 +905,7 @@ LeetCode Topics End
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0155-min-stack/) | Medium |
@@ -985,6 +987,7 @@ LeetCode Topics End
 | [0016-3sum-closest](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0018-4sum/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0042-trapping-rain-water](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0143-reorder-list/) | Medium |
@@ -1130,6 +1133,7 @@ LeetCode Topics End
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -1267,6 +1271,7 @@ LeetCode Topics End
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0503-next-greater-element-ii/) | Medium |
