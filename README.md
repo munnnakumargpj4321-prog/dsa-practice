@@ -771,6 +771,7 @@ LeetCode Topics End
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1528-shuffle-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1528-shuffle-string/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1550-three-consecutive-odds/) | Easy |
@@ -834,6 +835,7 @@ LeetCode Topics End
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -875,6 +877,7 @@ LeetCode Topics End
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0888-fair-candy-swap](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0888-fair-candy-swap/) | Easy |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -899,6 +902,7 @@ LeetCode Topics End
 | [0560-subarray-sum-equals-k](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -1004,6 +1008,7 @@ LeetCode Topics End
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
