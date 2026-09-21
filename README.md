@@ -734,6 +734,7 @@ LeetCode Topics End
 | [0128-longest-consecutive-sequence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0134-gas-station/) | Medium |
 | [0137-single-number-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0137-single-number-ii/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0164-maximum-gap](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0179-largest-number/) | Medium |
@@ -1146,6 +1147,7 @@ LeetCode Topics End
 | [0045-jump-game-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0118-pascals-triangle/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0357-count-numbers-with-unique-digits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0392-is-subsequence/) | Easy |
