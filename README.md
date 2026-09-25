@@ -679,6 +679,7 @@ LeetCode Topics End
 | [0520-detect-capital](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0541-reverse-string-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0899-orderly-queue](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0899-orderly-queue/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -923,6 +924,7 @@ LeetCode Topics End
 | [0234-palindrome-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Simulation
@@ -947,6 +949,7 @@ LeetCode Topics End
 | [0605-can-place-flowers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0605-can-place-flowers/) | Easy |
 | [0611-valid-triangle-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0611-valid-triangle-number/) | Medium |
 | [0624-maximum-distance-in-arrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0624-maximum-distance-in-arrays/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -1157,6 +1160,7 @@ LeetCode Topics End
 | [0357-count-numbers-with-unique-digits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0392-is-subsequence/) | Easy |
 | [0397-integer-replacement](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0397-integer-replacement/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0877-stone-game/) | Medium |
 | [2321-maximum-score-of-spliced-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2321-maximum-score-of-spliced-array/) | Hard |
@@ -1316,5 +1320,9 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
 ics End-->
