@@ -697,6 +697,7 @@ LeetCode Topics End
 | [2000-reverse-prefix-of-word](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
 | [2490-circular-sentence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2490-circular-sentence/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3110-score-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -927,6 +928,7 @@ LeetCode Topics End
 | [0678-valid-parenthesis-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -935,6 +937,7 @@ LeetCode Topics End
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2679-sum-in-a-matrix/) | Medium |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
