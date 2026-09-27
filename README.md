@@ -682,6 +682,7 @@ LeetCode Topics End
 | [0678-valid-parenthesis-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0899-orderly-queue](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0899-orderly-queue/) | Hard |
 | [1108-defanging-an-ip-address](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1446-consecutive-characters](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1446-consecutive-characters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -932,6 +933,7 @@ LeetCode Topics End
 | [0496-next-greater-element-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -1334,5 +1336,6 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
 ics End-->
