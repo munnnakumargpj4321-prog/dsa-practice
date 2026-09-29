@@ -987,6 +987,7 @@ LeetCode Topics End
 | [0138-copy-list-with-random-pointer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0202-happy-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
@@ -1024,6 +1025,7 @@ LeetCode Topics End
 | [0148-sort-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0392-is-subsequence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0392-is-subsequence/) | Easy |
@@ -1046,6 +1048,7 @@ LeetCode Topics End
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0048-rotate-image/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0202-happy-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0204-count-primes/) | Medium |
 | [0282-expression-add-operators](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0282-expression-add-operators/) | Hard |
 | [0357-count-numbers-with-unique-digits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0357-count-numbers-with-unique-digits) |
@@ -1286,6 +1289,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0202-happy-number/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
