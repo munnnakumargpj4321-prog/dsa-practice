@@ -672,6 +672,7 @@ LeetCode Topics End
 | [0065-valid-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0065-valid-number/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0179-largest-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0179-largest-number/) | Medium |
+| [0224-basic-calculator](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0224-basic-calculator/) | Hard |
 | [0282-expression-add-operators](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0282-expression-add-operators/) | Hard |
 | [0392-is-subsequence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0443-string-compression/) | Medium |
@@ -933,6 +934,7 @@ LeetCode Topics End
 | [0084-largest-rectangle-in-histogram](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0155-min-stack/) | Medium |
+| [0224-basic-calculator](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -1055,6 +1057,7 @@ LeetCode Topics End
 | [0172-factorial-trailing-zeroes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0204-count-primes/) | Medium |
+| [0224-basic-calculator](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0224-basic-calculator/) | Hard |
 | [0282-expression-add-operators](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0282-expression-add-operators/) | Hard |
 | [0357-count-numbers-with-unique-digits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0367-valid-perfect-square/) | Easy |
@@ -1198,6 +1201,7 @@ LeetCode Topics End
 | [0025-reverse-nodes-in-k-group](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0206-reverse-linked-list/) | Easy |
+| [0224-basic-calculator](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Game Theory
