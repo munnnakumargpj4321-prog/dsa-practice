@@ -892,6 +892,7 @@ LeetCode Topics End
 | [0633-sum-of-square-numbers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0878-nth-magical-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0878-nth-magical-number/) | Hard |
 | [0888-fair-candy-swap](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0888-fair-candy-swap/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
@@ -1069,6 +1070,7 @@ LeetCode Topics End
 | [0788-rotated-digits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0788-rotated-digits/) | Medium |
 | [0836-rectangle-overlap](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0877-stone-game/) | Medium |
+| [0878-nth-magical-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0878-nth-magical-number/) | Hard |
 | [0899-orderly-queue](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0899-orderly-queue/) | Hard |
 | [1015-smallest-integer-divisible-by-k](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1492-the-kth-factor-of-n/) | Medium |
@@ -1356,5 +1358,13 @@ LeetCode Topics End
 | [0678-valid-parenthesis-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Least Common Multiple
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0878-nth-magical-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0878-nth-magical-number/) | Hard |
+## Inclusion-Exclusion Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0878-nth-magical-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0878-nth-magical-number/) | Hard |
 <!---LeetCode Topics End-->
 ics End-->
