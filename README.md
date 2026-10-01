@@ -770,6 +770,7 @@ LeetCode Topics End
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0724-find-pivot-index](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0826-most-profit-assigning-work](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0877-stone-game/) | Medium |
 | [0888-fair-candy-swap](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0888-fair-candy-swap/) | Easy |
 | [0912-sort-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0912-sort-an-array/) | Medium |
@@ -892,6 +893,7 @@ LeetCode Topics End
 | [0633-sum-of-square-numbers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0878-nth-magical-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0878-nth-magical-number/) | Hard |
 | [0888-fair-candy-swap](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0888-fair-candy-swap/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
