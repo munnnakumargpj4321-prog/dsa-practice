@@ -667,6 +667,7 @@ LeetCode Topics End
 | [0008-string-to-integer-atoi](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0065-valid-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0065-valid-number/) | Hard |
@@ -930,6 +931,7 @@ LeetCode Topics End
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0143-reorder-list/) | Medium |
@@ -1350,6 +1352,7 @@ LeetCode Topics End
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
