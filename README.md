@@ -668,6 +668,7 @@ LeetCode Topics End
 | [0014-longest-common-prefix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0065-valid-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0065-valid-number/) | Hard |
@@ -1182,6 +1183,7 @@ LeetCode Topics End
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0118-pascals-triangle/) | Easy |
@@ -1218,6 +1220,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0040-combination-sum-ii/) | Medium |
@@ -1357,6 +1360,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
