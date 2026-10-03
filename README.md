@@ -943,6 +943,7 @@ LeetCode Topics End
 | [0143-reorder-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0224-basic-calculator/) | Hard |
+| [0225-implement-stack-using-queues](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -1355,6 +1356,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1376,5 +1378,9 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0878-nth-magical-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0878-nth-magical-number/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
 ics End-->
