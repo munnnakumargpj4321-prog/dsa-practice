@@ -670,6 +670,7 @@ LeetCode Topics End
 | [0020-valid-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0049-group-anagrams/) | Medium |
 | [0065-valid-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0065-valid-number/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -936,6 +937,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0143-reorder-list/) | Medium |
@@ -1184,6 +1186,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0118-pascals-triangle/) | Easy |
@@ -1361,6 +1364,7 @@ LeetCode Topics End
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
