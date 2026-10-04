@@ -702,6 +702,7 @@ LeetCode Topics End
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
 | [2490-circular-sentence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2490-circular-sentence/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -952,6 +953,7 @@ LeetCode Topics End
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -959,6 +961,7 @@ LeetCode Topics End
 | [0054-spiral-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
