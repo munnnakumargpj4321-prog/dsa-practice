@@ -965,6 +965,7 @@ LeetCode Topics End
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0258-add-digits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0258-add-digits/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -1076,6 +1077,7 @@ LeetCode Topics End
 | [0202-happy-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0204-count-primes/) | Medium |
 | [0224-basic-calculator](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0224-basic-calculator/) | Hard |
+| [0258-add-digits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0258-add-digits/) | Easy |
 | [0282-expression-add-operators](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0282-expression-add-operators/) | Hard |
 | [0357-count-numbers-with-unique-digits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0367-valid-perfect-square/) | Easy |
@@ -1108,6 +1110,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0204-count-primes/) | Medium |
+| [0258-add-digits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0258-add-digits/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
