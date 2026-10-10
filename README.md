@@ -1196,6 +1196,7 @@ LeetCode Topics End
 | [0200-number-of-islands](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0463-island-perimeter/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Breadth-First Search
@@ -1415,6 +1416,7 @@ LeetCode Topics End
 | [0094-binary-tree-inorder-traversal](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -1422,10 +1424,15 @@ LeetCode Topics End
 | [0094-binary-tree-inorder-traversal](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
 ics End-->
