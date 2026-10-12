@@ -829,6 +829,7 @@ LeetCode Topics End
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -873,6 +874,7 @@ LeetCode Topics End
 | [2679-sum-in-a-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3074-apple-redistribution-into-boxes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -915,6 +917,7 @@ LeetCode Topics End
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1166,6 +1169,7 @@ LeetCode Topics End
 | [0324-wiggle-sort-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0912-sort-an-array/) | Medium |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1179,6 +1183,7 @@ LeetCode Topics End
 | [0215-kth-largest-element-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
