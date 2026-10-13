@@ -766,6 +766,7 @@ LeetCode Topics End
 | [0419-battleships-in-a-board](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0463-island-perimeter/) | Easy |
+| [0493-reverse-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -903,6 +904,7 @@ LeetCode Topics End
 | [0349-intersection-of-two-arrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0493-reverse-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0493-reverse-pairs/) | Hard |
 | [0611-valid-triangle-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0611-valid-triangle-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -1168,6 +1170,7 @@ LeetCode Topics End
 | [0240-search-a-2d-matrix-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0493-reverse-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0912-sort-an-array/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 ## Bucket Sort
@@ -1356,6 +1359,7 @@ LeetCode Topics End
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0148-sort-list/) | Medium |
+| [0493-reverse-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0912-sort-an-array/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -1448,5 +1452,21 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
 ics End-->
