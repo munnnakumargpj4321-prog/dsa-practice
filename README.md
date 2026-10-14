@@ -1012,6 +1012,7 @@ LeetCode Topics End
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3074-apple-redistribution-into-boxes/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1118,6 +1119,7 @@ LeetCode Topics End
 | [3513-number-of-unique-xor-triplets-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3871-count-commas-in-range-ii/) | Medium |
