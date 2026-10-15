@@ -820,6 +820,7 @@ LeetCode Topics End
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2679-sum-in-a-matrix/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2951-find-the-peaks](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2951-find-the-peaks/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -1049,6 +1050,7 @@ LeetCode Topics End
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -1458,10 +1460,12 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0493-reverse-pairs/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0493-reverse-pairs/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
