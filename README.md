@@ -1217,6 +1217,7 @@ LeetCode Topics End
 | [0104-maximum-depth-of-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0200-number-of-islands/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -1443,6 +1444,7 @@ LeetCode Topics End
 | [0102-binary-tree-level-order-traversal](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
@@ -1453,6 +1455,7 @@ LeetCode Topics End
 | [0102-binary-tree-level-order-traversal](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Hash Function
@@ -1481,5 +1484,13 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0493-reverse-pairs/) | Hard |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
 ics End-->
