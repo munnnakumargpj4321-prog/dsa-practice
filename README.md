@@ -960,6 +960,7 @@ LeetCode Topics End
 | [0084-largest-rectangle-in-histogram](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0143-reorder-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
@@ -1214,6 +1215,7 @@ LeetCode Topics End
 | [0094-binary-tree-inorder-traversal](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0463-island-perimeter](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0463-island-perimeter/) | Easy |
@@ -1440,6 +1442,7 @@ LeetCode Topics End
 | [0100-same-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
@@ -1449,6 +1452,7 @@ LeetCode Topics End
 | [0100-same-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Hash Function
