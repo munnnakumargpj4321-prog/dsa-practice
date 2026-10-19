@@ -809,6 +809,7 @@ LeetCode Topics End
 | [1979-find-greatest-common-divisor-of-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
@@ -870,6 +871,7 @@ LeetCode Topics End
 | [1679-max-number-of-k-sum-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -918,6 +920,7 @@ LeetCode Topics End
 | [1539-kth-missing-positive-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
