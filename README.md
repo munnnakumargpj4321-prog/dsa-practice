@@ -834,6 +834,7 @@ LeetCode Topics End
 | [3718-smallest-missing-multiple-of-k](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3835-count-subarrays-with-cost-less-than-or-equal-to-k/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -1444,6 +1445,7 @@ LeetCode Topics End
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [2762-continuous-subarrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2762-continuous-subarrays/) | Medium |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3835-count-subarrays-with-cost-less-than-or-equal-to-k/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1505,5 +1507,6 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2762-continuous-subarrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2762-continuous-subarrays/) | Medium |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3835-count-subarrays-with-cost-less-than-or-equal-to-k/) | Medium |
 <!---LeetCode Topics End-->
 ics End-->
