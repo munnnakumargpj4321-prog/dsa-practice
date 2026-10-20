@@ -821,6 +821,7 @@ LeetCode Topics End
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2679-sum-in-a-matrix/) | Medium |
+| [2762-continuous-subarrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2762-continuous-subarrays/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2951-find-the-peaks](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2951-find-the-peaks/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -939,6 +940,7 @@ LeetCode Topics End
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
+| [2762-continuous-subarrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2762-continuous-subarrays/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Prefix Sum
@@ -1164,6 +1166,7 @@ LeetCode Topics End
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2679-sum-in-a-matrix](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2679-sum-in-a-matrix/) | Medium |
+| [2762-continuous-subarrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2762-continuous-subarrays/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1440,6 +1443,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [2762-continuous-subarrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2762-continuous-subarrays/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1484,6 +1488,7 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0493-reverse-pairs/) | Hard |
+| [2762-continuous-subarrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2762-continuous-subarrays/) | Medium |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1496,5 +1501,9 @@ LeetCode Topics End
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2762-continuous-subarrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2762-continuous-subarrays/) | Medium |
 <!---LeetCode Topics End-->
 ics End-->
