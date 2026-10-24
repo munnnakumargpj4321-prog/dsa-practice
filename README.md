@@ -761,6 +761,7 @@ LeetCode Topics End
 | [0215-kth-largest-element-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0216-combination-sum-iii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0274-h-index](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0274-h-index/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0330-patching-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0330-patching-array/) | Hard |
@@ -853,6 +854,7 @@ LeetCode Topics End
 | [0164-maximum-gap](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0274-h-index](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0274-h-index/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -888,6 +890,7 @@ LeetCode Topics End
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0274-h-index](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0274-h-index/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0912-sort-an-array/) | Medium |
