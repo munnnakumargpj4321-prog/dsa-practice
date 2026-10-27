@@ -1082,6 +1082,7 @@ LeetCode Topics End
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0086-partition-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0148-sort-list/) | Medium |
@@ -1369,6 +1370,7 @@ LeetCode Topics End
 | [0024-swap-nodes-in-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0086-partition-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0086-partition-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
