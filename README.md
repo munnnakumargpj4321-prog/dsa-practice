@@ -798,6 +798,7 @@ LeetCode Topics End
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1528-shuffle-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1528-shuffle-string/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1550-three-consecutive-odds/) | Easy |
@@ -875,6 +876,7 @@ LeetCode Topics End
 | [1433-check-if-a-string-can-break-another-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -1024,6 +1026,7 @@ LeetCode Topics End
 | [0945-minimum-increment-to-make-array-unique](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
