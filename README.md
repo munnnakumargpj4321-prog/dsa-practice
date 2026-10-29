@@ -1404,6 +1404,7 @@ LeetCode Topics End
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0176-second-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0184-department-highest-salary](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0184-department-highest-salary/) | Medium |
 | [0584-find-customer-referee](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0584-find-customer-referee/) | Easy |
