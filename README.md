@@ -678,6 +678,7 @@ LeetCode Topics End
 | [0224-basic-calculator](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0224-basic-calculator/) | Hard |
 | [0282-expression-add-operators](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0282-expression-add-operators/) | Hard |
 | [0392-is-subsequence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0392-is-subsequence/) | Easy |
+| [0394-decode-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0394-decode-string/) | Medium |
 | [0443-string-compression](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0466-count-the-repetitions](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0466-count-the-repetitions/) | Hard |
@@ -985,6 +986,7 @@ LeetCode Topics End
 | [0224-basic-calculator](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0224-basic-calculator/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -1297,6 +1299,7 @@ LeetCode Topics End
 | [0206-reverse-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0224-basic-calculator/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0394-decode-string/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
