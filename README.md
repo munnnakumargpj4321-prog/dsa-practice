@@ -769,6 +769,7 @@ LeetCode Topics End
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0419-battleships-in-a-board](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0493-reverse-pairs/) | Hard |
@@ -1131,6 +1132,7 @@ LeetCode Topics End
 | [0282-expression-add-operators](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0282-expression-add-operators/) | Hard |
 | [0357-count-numbers-with-unique-digits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0367-valid-perfect-square/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0633-sum-of-square-numbers/) | Medium |
