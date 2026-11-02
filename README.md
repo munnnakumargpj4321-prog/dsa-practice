@@ -839,6 +839,7 @@ LeetCode Topics End
 | [3471-find-the-largest-almost-missing-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -1179,6 +1180,7 @@ LeetCode Topics End
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
