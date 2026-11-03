@@ -12,6 +12,5 @@ public:
             count+=(maxi-num);
         }
         return count;
-        
     }
 };
