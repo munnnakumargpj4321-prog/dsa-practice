@@ -1124,6 +1124,7 @@ LeetCode Topics End
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0048-rotate-image/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0202-happy-number/) | Easy |
