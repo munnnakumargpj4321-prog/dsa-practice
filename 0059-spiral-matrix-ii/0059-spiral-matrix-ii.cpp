@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> generateMatrix(int n) {
-    vector<vector<int>> matrix(n,vector<int>(n));
+           vector<vector<int>> matrix(n,vector<int>(n));
     int top=0;
     int buttom=n-1;
     int left=0;
@@ -36,5 +36,6 @@ public:
         right--;
     }
     return matrix;
+ 
     }
 };
