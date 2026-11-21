@@ -774,6 +774,7 @@ LeetCode Topics End
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0463-island-perimeter/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0493-reverse-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -1072,6 +1073,7 @@ LeetCode Topics End
 | [0347-top-k-frequent-elements](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0496-next-greater-element-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0567-permutation-in-string/) | Medium |
@@ -1192,6 +1194,7 @@ LeetCode Topics End
 | [0137-single-number-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0137-single-number-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0397-integer-replacement](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0397-integer-replacement/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -1343,6 +1346,7 @@ LeetCode Topics End
 | [0216-combination-sum-iii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0216-combination-sum-iii/) | Medium |
 | [0282-expression-add-operators](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0282-expression-add-operators/) | Hard |
 | [0357-count-numbers-with-unique-digits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0357-count-numbers-with-unique-digits) |
+| [0491-non-decreasing-subsequences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0491-non-decreasing-subsequences/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
