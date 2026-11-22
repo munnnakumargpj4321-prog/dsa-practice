@@ -710,6 +710,7 @@ LeetCode Topics End
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2414-length-of-the-longest-alphabetical-continuous-substring/) | Medium |
 | [2490-circular-sentence](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2490-circular-sentence/) | Easy |
