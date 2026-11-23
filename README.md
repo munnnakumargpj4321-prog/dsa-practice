@@ -800,6 +800,7 @@ LeetCode Topics End
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1051-height-checker](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1051-height-checker/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -980,6 +981,7 @@ LeetCode Topics End
 | [0724-find-pivot-index](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -1161,6 +1163,7 @@ LeetCode Topics End
 | [0878-nth-magical-number](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0878-nth-magical-number/) | Hard |
 | [0899-orderly-queue](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0899-orderly-queue/) | Hard |
 | [1015-smallest-integer-divisible-by-k](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -1477,6 +1480,7 @@ LeetCode Topics End
 | ------- | ------- |
 | [0155-min-stack](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1571,5 +1575,9 @@ LeetCode Topics End
 | ------- | ------- |
 | [2762-continuous-subarrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2762-continuous-subarrays/) | Medium |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3835-count-subarrays-with-cost-less-than-or-equal-to-k/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
 ics End-->
