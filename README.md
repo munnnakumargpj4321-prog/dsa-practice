@@ -1096,6 +1096,7 @@ LeetCode Topics End
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
+| [2671-frequency-tracker](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2671-frequency-tracker/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -1481,6 +1482,7 @@ LeetCode Topics End
 | [0155-min-stack](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+| [2671-frequency-tracker](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2671-frequency-tracker/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
