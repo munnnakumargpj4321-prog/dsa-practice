@@ -792,6 +792,7 @@ LeetCode Topics End
 | [0875-koko-eating-bananas](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0877-stone-game/) | Medium |
 | [0888-fair-candy-swap](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0888-fair-candy-swap/) | Easy |
+| [0896-monotonic-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0896-monotonic-array/) | Easy |
 | [0912-sort-an-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0912-sort-an-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
