@@ -1030,6 +1030,7 @@ LeetCode Topics End
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -1174,6 +1175,7 @@ LeetCode Topics End
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2366-minimum-replacements-to-sort-the-array/) | Hard |
 | [2485-find-the-pivot-integer](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3360-stone-removal-game/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
