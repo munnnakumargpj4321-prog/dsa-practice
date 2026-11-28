@@ -1115,6 +1115,7 @@ LeetCode Topics End
 | [0027-remove-element](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0086-partition-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
@@ -1415,6 +1416,7 @@ LeetCode Topics End
 | [0023-merge-k-sorted-lists](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0061-rotate-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0086-partition-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/munnnakumargpj4321-prog/dsa-practice/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
